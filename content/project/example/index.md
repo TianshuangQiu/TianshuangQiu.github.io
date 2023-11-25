@@ -5,7 +5,7 @@ tags:
   - Robotics
   - Motion Planning
   - Deep Learning
-date: '2023-09'
+date: '2023-09-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sites.google.com/berkeley.edu/
