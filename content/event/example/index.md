@@ -58,9 +58,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
   - external-project
-<!-- ---
+---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
