@@ -85,7 +85,7 @@ skills:
       - name: Video Games
         description: ''
         percent: 60
-        icon: game-pad
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
