@@ -1,6 +1,5 @@
 ---
-title: 'ALearning to Efficiently Plan Robust Frictional
-Multi-Object Grasps'
+title: 'Learning to Efficiently Plan Robust Frictional Multi-Object Grasps'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
