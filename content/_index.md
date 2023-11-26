@@ -64,7 +64,7 @@ sections:
       items:
         - title: ML Engineer
           company: Apple
-          company_url: ''
+          company_url: 'apple.com'
           company_logo: apple
           location: California
           date_start: '2023-05-20'
@@ -83,6 +83,14 @@ sections:
           date_start: '2022-12-15'
           date_end: ''
           description: Studied robotic grasping and manipulation, as well as various motion planning techniques. Applied deep learning to these projects.
+        - title: Automation Engineer
+          company: Hitachi Rail
+          company_url: 'https://duckduckgo.com/?q=hitachi+rail&atb=v337-1&ia=web'
+          company_logo: HitachiRailSTS
+          location: Pittsburgh
+          date_start: '2021-05-25'
+          date_end: '2021-07-31'
+          description: Analyzed onsite train running data of different metro lines. Improved a graphical tool to compare theoretical run-time with actual run-time
     design:
       columns: '2'
   # - block: accomplishments
@@ -235,7 +243,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Rreach out if you would like to talk more
+        Reach out if you would like to talk more
       # Contact (add or remove contact options as necessary)
       email: ethantqiu@berkeley.edu
       # phone: 888 888 88 88
