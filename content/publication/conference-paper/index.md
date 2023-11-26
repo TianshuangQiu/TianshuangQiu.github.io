@@ -43,14 +43,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://arxiv.org/pdf/2210.07420.pdf'
+url_code: 'https://github.com/wisdomagboh/multi-object-grasping'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://github.com/wisdomagboh/multi-object-grasping'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
