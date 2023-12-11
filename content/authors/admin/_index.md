@@ -23,10 +23,6 @@ role: Artificial Intelligence/ Robotics Researcher
 organizations:
   - name: University of California, Berkeley
     url: https://www.berkeley.edu/
-  
-  - name: Berkeley Artificial Intelligence Research
-    url: https://bair.berkeley.edu/
-  
   - name: AUTOLAB
     url: https://autolab.berkeley.edu/
 
@@ -110,7 +106,7 @@ social:
     link: https://github.com/TianshuangQiu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit
+    link: https://www.linkedin.com/in/tianshuang-qiu-573aa9169/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
