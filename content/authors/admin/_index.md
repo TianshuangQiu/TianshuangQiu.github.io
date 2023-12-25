@@ -6,12 +6,12 @@ title: Tianshuang (Ethan) Qiu
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tianshuang Ethan
+last_name: Qiu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☯️
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,14 +48,14 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: Robotics
+      - name: Deep Learning
         description: ''
         percent: 80
+        icon: brain-circuit
+        icon_pack: lucide
+      - name: Robotics
+        description: ''
+        percent: 90
         icon: robot
         icon_pack: fas
       - name: Data Science
