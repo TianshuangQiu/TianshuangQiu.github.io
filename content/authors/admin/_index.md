@@ -49,17 +49,17 @@ skills:
   - name: Technical
     items:
       - name: Deep Learning
-        description: 'Design, training, and deployment of deep neural models'
+        # description: 'Design, training, and deployment of deep neural models'
         percent: 80
-        icon: brain-cog
-        icon_pack: lucide
+        icon: brain
+        icon_pack: fas
       - name: Robotics
-        description: 'Control of various robotic agents'
+        # description: 'Control of various robotic agents'
         percent: 90
         icon: robot
         icon_pack: fas
       - name: Data Science
-        description: 'Analysis and visualization of data'
+        # description: 'Analysis and visualization of data'
         percent: 60
         icon: chart-line
         icon_pack: fas
