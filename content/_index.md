@@ -70,11 +70,9 @@ sections:
           date_start: '2023-05-20'
           date_end: '2023-08-12'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Analyzed battery data from over 1500 devices to help Cell Engineers for design improvement
+              * Developed an internal graphical tool to apply ML algorithms and create data visualizations automatically which was adopted by the team; streamlined process to visualize new features, saved labor cost by over  50%
+              * Designed neural net model to process raw time series data from users over 2 years and analyzed results with the internal tool above. The model has been recommended for further investigation by relevant teams
         - title: Undergraduate AI Researcher
           company: UC Berkeley
           company_url: ''
